@@ -1,22 +1,6 @@
 # 👋 Hi, I'm Dharun Raj P
 
 ### 💻 Aspiring Software Engineer | Coding Enthusiast | DSA | MERN Stack
-
-<p align="center">
-  <a href="https://dharunrajpdr.github.io/New_Portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge" alt="Live Portfolio">
-  </a>
-  <a href="https://github.com/DHARUNRAJ86">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/dharun-raj-palanisamy/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/DharunRaj86/">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode">
-  </a>
-</p>
-
 ---
 
 ## 🚀 About This Portfolio
