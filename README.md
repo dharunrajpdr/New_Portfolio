@@ -58,7 +58,7 @@ DSA · OOP · Generative AI APIs · Prompt Engineering · Python Fundamentals
   <a href="https://leetcode.com/u/dharunraj_palanisamy/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode">
   </a>
-  <a href="https://dharunrajpdr.github.io/New_Portfolio/">
+  <a href="https://dharunrajpdr.github.io/Personal-Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
